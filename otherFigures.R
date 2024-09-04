@@ -1,4 +1,9 @@
+# Code corresponds to the paper:
+# Optimizing Noise for f-Differential Privacy
+# via Anti-Concentration and Stochastic Dominance
+# by Jordan Awan and Aishwarya Ramasethu
 
+# This code generates all figures in the paper except for Figure 3
 ####################################################################
 ### approximate the discrete Gaussian
 ####################################################################
